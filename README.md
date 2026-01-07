@@ -92,14 +92,6 @@ The most influential features identified by the model:
 3. **Credit Inquiries (Last 6 Months)** – Indicates aggressive credit-seeking behavior
 
 ---
-
-## 📂 Repository Structure
-```
-├── loan_pending_prediction.ipynb   # Complete ML pipeline & analysis
-├── loan.csv                        # Raw LendingClub dataset
-├── README.md                       # Project documentation
-```
-
 ---
 
 ## 📌 Conclusion
